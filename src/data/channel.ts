@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "🗝️",
   category: "공포/미스터리",
   tagline: "건드리지 말았어야 할 그것들",
+  youtubeUrl: "https://youtube.com/channel/UClx-Xy6bZcBQRuBXaZwq3ZQ",
   layoutId: "victorian-catalog",
   isLight: false,
   tokens: {
