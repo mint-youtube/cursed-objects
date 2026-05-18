@@ -1,24 +1,22 @@
 ---
 title: "경매 직후 소유자 4명 전원 사망 | 봉인된 바사노 부인 저주 초상화"
 description: "이탈리아 베네토 주에서 발견된 16세기 초상화 한 점. 1981년 밀라노 경매에 등장한 순간부터 소유자들은 6개월 안에 하나씩 목숨을 잃었습니다. 심장마비, 낙상, 자동차 사고, 원인불명 심정지. 총 4명이 사망했고, 의사도 경찰도 이유를 설명하지 못했습니다.…"
-pubDate: 2026-05-18T16:17:00+09:00
+pubDate: 2026-05-18T17:28:00+09:00
 author: ""
 category: ""
 tags: ["저주받은그림", "미스터리다큐", "기이한실화", "초상화저주", "이탈리아미스터리", "실화공포", "다큐멘터리", "바사노초상화"]
 youtubeUrl: ""
-heroImage: ""
+heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-2_img_2.png"
 draft: false
 ---
 
-![이 그림을 가진 사람은 6개월 안에 죽었다, 이탈리아에서 발견된 바사노 부인 초상화의 정체](https://i.ytimg.com/vi/wyesHSctH8s/maxresdefault.jpg)
-
 > 1981년 경매 이후 4명의 소유자가 연쇄 사망, 봉인된 채 보관 중인 저주의 그림
 
-![scene-2](https://i.ytimg.com/vi/wyesHSctH8s/maxresdefault.jpg)
+![scene-2](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-2_img_2.png)
 
 ## 6개월 안에 4명이 죽었다
 
-![scene-3](https://i.ytimg.com/vi/wyesHSctH8s/hqdefault.jpg)
+![scene-3](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-3_img_2.png)
 
 6개월. 그 안에 4명이 죽었습니다. 심장마비, 낙상, 교통사고, 원인불명 심정지. 이들에게는 공통점이 단 하나 있었습니다. 바로 이 그림을 소유했다는 것. 이탈리아 북부의 낡은 저택 벽 뒤에서 발견된 초상화. 16세기 여인의 얼굴을 담은 이 그림은 1981년 밀라노 경매에 처음 모습을 드러냈습니다. 그리고 그 날 이후, 소유자들이 하나씩 죽어갔습니다. 의사도, 경찰도, 전문가도 이유를 설명하지 못했습니다. 믿기 어렵겠지만, 이것은 실화입니다.
 
@@ -30,7 +28,7 @@ draft: false
 
 *1981년 밀라노 경매, 그 이후 시작된 죽음*
 
-![scene-4](https://i.ytimg.com/vi/wyesHSctH8s/sddefault.jpg)
+![scene-4](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-4_img_2.png)
 
 ## 바사노 부인 초상화의 정체
 이 그림의 이름은 바사노 부인의 초상화입니다. 가로 60센티미터, 세로 80센티미터. 캔버스에 유채, 16세기 이탈리아 화풍. 화면 속 여인은 창백하고 단정한 얼굴에, 검은 눈동자가 관람자를 정면으로 응시합니다. 한 손에는 시든 꽃다발을 들고 있습니다. 이 그림이 처음 발견된 것은 1978년입니다. 이탈리아 북부 베네토 주, 수백 년 된 귀족 가문의 저택이 철거되던 날이었습니다. 인부들이 벽 뒤에 숨겨진 방에서 이 초상화를 꺼냈습니다. 그런데 그 날, 공사 인부 한 명이 갑자기 사다리에서 미끄러졌습니다. 다리가 두 곳이나 골절되었습니다. 이후 인부들은 아무도 그 방에 다시 들어가려 하지 않았습니다. 이것이 이 그림과 사고의 첫 번째 연결이었습니다.
@@ -41,14 +39,14 @@ draft: false
 ## 첫 번째 죽음: 로베르토 파치
 파치는 그림을 자신의 서재에 걸었습니다. 거실이 아닌, 매일 혼자 앉아 일하는 서재에. 그의 아내는 나중에 이렇게 말했습니다. "그 그림이 집에 들어온 날부터 뭔가 달랐어요." 무엇이 달랐는지, 그녀도 구체적으로 설명하기 어려워했습니다. 그냥, 분위기가. 공기가. 낙찰 후 3개월이 지난 어느 날 아침, 파치는 서재에서 심장마비로 쓰러졌습니다. 향년 61세. 주치의는 평소 심장 질환이 전혀 없었다고 확인했습니다. 건강한 남성의 갑작스러운 죽음이었습니다. 유족은 슬픔 속에 서재를 정리했습니다. 그런데 그림은 버리지 않았습니다. 조카인 마르코가 삼촌의 유품이라며 가져갔습니다.
 
-![scene-5](https://i.ytimg.com/vi/wyesHSctH8s/0.jpg)
+![scene-5](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-5_img_2.png)
 
 **그림이 들어온 날부터 달랐다**
 *로베르토 파치, 낙찰 3개월 후 원인 미상 심장마비*
 
 > **기저 질환 없음** — 주치의도 설명 불가
 
-![scene-6](https://i.ytimg.com/vi/wyesHSctH8s/1.jpg)
+![scene-6](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-6_img_2.png)
 
 ## 두 번째, 세 번째 소유자
 마르코 파치는 26살 청년이었습니다. 삼촌의 취향을 물려받은 미술 애호가였습니다. 그는 이 그림을 자신의 아파트 침실에 걸었습니다. 4개월이 지났습니다. 어느 비 오는 밤, 마르코의 자동차가 미끄러져 중앙 분리대를 들이받았습니다. 현장에는 다른 차가 없었습니다. 도로는 직선 구간이었습니다. 목격자도 없었습니다. 그가 왜 핸들을 꺾었는지, 아무도 알지 못합니다. 마르코가 세상을 떠나자, 그림은 다시 주인이 없어졌습니다. 그때 한 예술 수집가가 관심을 보였습니다. 루이지 도나티라는 인물이었습니다. 그는 저주 소문을 들었습니다. 그리고도 사겠다고 했습니다. 도나티는 그림을 구입하고 5개월이 지난 뒤, 저택 계단에서 발을 헛디뎌 쓰러졌습니다. 뇌출혈이었습니다. 다음 날 아침 숨을 거뒀습니다.
@@ -61,7 +59,7 @@ draft: false
 
 > **3명 모두 기저 질환 없음** — 경찰: 우연으로 처리
 
-![scene-7](https://i.ytimg.com/vi/wyesHSctH8s/2.jpg)
+![scene-7](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-7_img_2.png)
 
 ## 초자연 연구가의 도전
 3명의 소유자가 죽은 뒤, 소문은 이탈리아 전역으로 퍼졌습니다. 어떤 박물관도, 미술관도, 교회도 이 그림을 받으려 하지 않았습니다. 그때 한 사람이 나섰습니다. 밀라노 대학교 소속 초자연 현상 연구가, 안토니오 벨루치였습니다. 그는 주변의 만류에도 단호했습니다. "팔지 않겠습니다. 저는 이 그림의 정체를 밝혀낼 겁니다." 벨루치는 그림을 연구실로 가져왔습니다. 화학 분석, 방사성 탄소 연대 측정, 심령 탐지 장비까지 동원했습니다. 6개월 동안, 그는 밤낮을 가리지 않고 연구했습니다. 그런데 딱 6개월째 되던 날이었습니다. 벨루치는 연구실 의자에 앉은 채 발견되었습니다. 심장이 멈춰 있었습니다. 주변에 아무런 이상 흔적이 없었습니다. 그냥, 앉아서 죽어 있었습니다.
@@ -83,14 +81,14 @@ var stg = new Object(); stg.crt="113936426809";stg.version="1.05"; stg.id=stg.na
 3. **단독 공간** — 그림과 단둘이 있을 때 사망
 4. **6개월 이내** — 소유 후 최장 6개월, 최단 3개월
 
-![scene-8](https://i.ytimg.com/vi/wyesHSctH8s/3.jpg)
+![scene-8](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-8_img_2.png)
 
 > **4가지 공통 패턴** — 경찰은 여전히 우연으로 처리
 
 ## 미술 감정사의 발견
 벨루치 사후, 이탈리아 정부 소속 미술 감정사 카를로 메르키가 이 그림을 공식 검사했습니다. 그는 그림 표면에서 특이한 물질을 발견했습니다. 납 성분이 포함된 물감 층 아래, 아직 규명되지 않은 유기 화합물이 존재했습니다. 메르키는 이렇게 말했습니다. "이 그림에서 납 성분이 검출되었습니다. 하지만 그것만으로는 설명이 되지 않습니다." 납 중독 가능성. 하지만 그림을 단순히 벽에 걸어두는 것으로 치명적인 수준의 납에 노출될 가능성은 극히 낮다는 것이 전문가들의 공통된 의견이었습니다. 그렇다면 정말로 설명 불가능한 무언가가 있는 걸까요. 아니면 이 모든 것이 끔찍한 우연의 연속인 걸까요.
 
-![scene-9](https://i.ytimg.com/vi/wyesHSctH8s/maxresdefault.jpg)
+![scene-9](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-9_img_2.png)
 
 > 이 그림에서 납 성분이 검출되었습니다. 하지만 그것만으로는 설명이 되지 않습니다. 과학이 답하지 못하는 무언가가 있습니다.
 > — 카를로 메르키, 이탈리아 정부 공식 미술 감정사
@@ -101,7 +99,7 @@ var stg = new Object(); stg.crt="113936426809";stg.version="1.05"; stg.id=stg.na
 ## 이 그림은 지금 어디에
 2024년 현재, 바사노 부인의 초상화는 여전히 봉인된 상태입니다. 나무 상자 안에, 어딘가의 창고 속에. 정확한 위치는 벨루치의 딸만 알고 있다고 합니다. 이탈리아 문화부는 이 그림을 등록된 문화재로 공식 분류하지 않았습니다. 보존 의무도, 공개 의무도 없습니다. 1978년 발견 이후 46년. 4명의 소유자가 죽었습니다. 그리고 그림은 지금도, 어딘가의 어둠 속에 존재합니다. 아무도 보지 못하게. 아무도 가져가지 않게.
 
-![scene-10](https://i.ytimg.com/vi/wyesHSctH8s/hqdefault.jpg)
+![scene-10](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-10_img_2.png)
 
 - **1978** — 베네토 저택 벽 뒤에서 발견
 - **1981** — 밀라노 경매, 1호 소유자 파치 사망
@@ -117,7 +115,7 @@ var stg = new Object(); stg.crt="113936426809";stg.version="1.05"; stg.id=stg.na
 |---|---|
 | 납 성분 + 끔찍한 우연의 일치 | 4명의 패턴화된 연쇄 사망 |
 
-![scene-11](https://i.ytimg.com/vi/wyesHSctH8s/sddefault.jpg)
+![intro](https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/intro_img_2.png)
 
 ## 마무리
 
