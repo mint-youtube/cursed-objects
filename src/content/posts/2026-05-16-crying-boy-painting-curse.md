@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["우는 소년 그림", "저주받은 물건", "영국 도시전설", "브루노 아마디오", "집단 히스테리", "더 선 신문 저주", "Giovanni Bragolin", "초자연 현상 실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=OhN4O75cgNs"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-16-crying-boy-painting-curse/scene-2_img_2.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-06-03T14:22:00+09:00
 author: ""
 category: ""
 tags: ["바사노 화병 저주", "이탈리아 저주 화병", "결혼 저주", "저주받은 물건", "이탈리아 미스터리", "15세기 저주", "공포 실화", "재매장 화병"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=_f4dzXtNqYE"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-03-basano-vase-curse/scene-2_img_2.png"
 draft: false
 ---

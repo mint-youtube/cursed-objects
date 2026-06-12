@@ -5,7 +5,7 @@ pubDate: 2026-05-29T22:15:00+09:00
 author: ""
 category: ""
 tags: ["제임스 딘", "포르쉐 550 스파이더", "리틀 바스타드", "자동차 저주", "조지 배리스", "1955년 사고", "할리우드 미스터리", "저주받은 물건", "캘리포니아 46번 국도", "트로이 맥헨리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=yN33bhpyS4Q"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-29-james-dean-porsche-550-spyder-curse-1955/scene-2_img_2.png"
 draft: false
 ---

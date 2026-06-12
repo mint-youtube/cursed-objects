@@ -5,7 +5,7 @@ pubDate: 2026-05-27T21:29:00+09:00
 author: ""
 category: ""
 tags: ["외치", "아이스맨", "알프스 미라", "1991년 발견", "헬무트 지몬", "라이너 헨", "톰 로이", "볼차노 박물관", "저주받은 물건", "5300년 미라"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mskCms-S1LM"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-27-otzi-iceman-1991-bolzano-museum-curse/scene-2_img_2.png"
 draft: false
 ---

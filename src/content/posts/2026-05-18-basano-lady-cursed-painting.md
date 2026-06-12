@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:28:00+09:00
 author: ""
 category: ""
 tags: ["저주받은그림", "미스터리다큐", "기이한실화", "초상화저주", "이탈리아미스터리", "실화공포", "다큐멘터리", "바사노초상화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=wyesHSctH8s"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-18-basano-lady-cursed-painting/scene-2_img_2.png"
 draft: false
 ---

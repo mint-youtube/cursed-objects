@@ -5,7 +5,7 @@ pubDate: 2026-05-18T19:45:00+09:00
 author: ""
 category: ""
 tags: ["우는소년그림", "저주", "화재", "미스터리", "저주받은물건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=B9gTAJklY0Q"
 heroImage: ""
 draft: false
 ---

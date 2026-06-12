@@ -5,7 +5,7 @@ pubDate: 2026-05-10T09:00:00+09:00
 author: ""
 category: ""
 tags: ["우는 소년 그림", "저주받은 그림", "Giovanni Bragolin", "브루노 아마디오", "영국 화재 저주", "1985 더 선 저주", "가이 포크스 나이트", "집단 히스테리", "복제화 바니쉬", "소방서 공식 경고"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=sHCWXdSXsX4"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-09-crying-boy-painting-fire-curse/intro_img_1.png"
 draft: false
 ---

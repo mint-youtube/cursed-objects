@@ -5,7 +5,7 @@ pubDate: 2026-05-21T17:40:00+09:00
 author: ""
 category: ""
 tags: ["호프 다이아몬드", "Hope Diamond", "저주받은 보석", "프렌치 블루", "마리 앙투아네트", "카르티에", "에블린 맥린", "스미스소니언", "골콘다 광산", "헨리 호프"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=QAOoyK3Hjeo"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-21-hope-diamond-curse-360-years/scene-2_img_2.png"
 draft: false
 ---

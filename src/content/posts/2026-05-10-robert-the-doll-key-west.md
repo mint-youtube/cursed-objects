@@ -5,7 +5,7 @@ pubDate: 2026-05-11T09:00:00+09:00
 author: ""
 category: ""
 tags: ["로버트 인형", "저주받은 인형", "키웨스트 박물관", "아나벨 인형 비교", "포트 이스트 마텔로", "확증 편향 심리학", "부두교 저주", "오컬트 미스터리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=pRajoWXEcL0"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-05-10-robert-the-doll-key-west/intro_img_1.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-06-02T00:00:00+09:00
 author: ""
 category: ""
 tags: ["디북박스", "저주받은 물건", "디북 박스 진실", "미스터리 괴담", "노세보 효과", "오컬트 도시전설"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=aT_wWlNOjTY"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-01-dybbuk-box-ebay-curse/scene-2_img_2.png"
 draft: false
 ---
