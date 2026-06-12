@@ -5,7 +5,7 @@ pubDate: 2026-06-13T09:00:00+09:00
 author: ""
 category: ""
 tags: ["애너벨 인형", "워런 부부", "오컬트 미스터리", "저주받은 물건", "공포 실화", "더 컨저링", "에드 워런", "저주 인형"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=eJ22cdeMSJo"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-13-annabelle-doll-warren-museum-1970/scene-2_img_2.png"
 draft: false
 ---
