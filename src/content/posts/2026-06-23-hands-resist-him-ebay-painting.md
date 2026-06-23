@@ -5,7 +5,7 @@ pubDate: 2026-06-23T15:52:00+09:00
 author: ""
 category: ""
 tags: ["이베이 저주 그림", "저주받은 그림", "움직이는 그림", "파레이돌리아", "집단 심리", "인터넷 괴담", "도시 전설 진실", "공포 심리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=C4AopkTCvXE"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-23-hands-resist-him-ebay-painting/scene-2_img_2.png"
 draft: false
 ---
