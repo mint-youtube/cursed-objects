@@ -5,7 +5,7 @@ pubDate: 2026-06-24T14:32:00+09:00
 author: ""
 category: ""
 tags: ["앵귀시드맨", "저주받은그림", "화가의피그림", "저주받은물건", "고통받는남자", "영국괴담", "심령그림", "저주그림", "초자연현상", "무서운실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=rKGijJZ7ieU"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-24-anguished-man-painting-blood/scene-2_img_2.png"
 draft: false
 ---
