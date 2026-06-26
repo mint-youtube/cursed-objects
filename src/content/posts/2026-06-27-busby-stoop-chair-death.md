@@ -5,7 +5,7 @@ pubDate: 2026-06-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["버스비 의자", "저주받은 의자", "저주받은 물건", "도시 전설", "영국 괴담", "초자연 미스터리", "확증 편향", "박물관 미스터리", "호러 실화", "오컬트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=kQ6U6cJFx8s"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-27-busby-stoop-chair-death/scene-2_img_2.png"
 draft: false
 ---
