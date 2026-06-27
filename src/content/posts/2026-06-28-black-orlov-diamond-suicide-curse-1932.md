@@ -5,7 +5,7 @@ pubDate: 2026-06-28T09:00:00+09:00
 author: ""
 category: ""
 tags: ["블랙 오를로프", "저주받은 다이아몬드", "검은 다이아몬드", "블랙 오를로프 저주", "저주받은 보석", "브라흐마의 눈", "1932년 저주", "초자연 미스터리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mdwlj8F8VrE"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-28-black-orlov-diamond-suicide-curse-1932/scene-2_img_2.png"
 draft: false
 ---
