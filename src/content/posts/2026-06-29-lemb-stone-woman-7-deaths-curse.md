@@ -5,7 +5,7 @@ pubDate: 2026-06-29T21:45:00+09:00
 author: ""
 category: ""
 tags: ["렘브의 여인", "죽음의 여신", "저주받은 물건", "저주받은 조각상", "고대 유물", "박물관 미스터리", "도시 전설", "초자연 미스터리", "확증 편향", "오컬트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=p-LegW8ZyDw"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-29-lemb-stone-woman-7-deaths-curse/scene-2_img_2.png"
 draft: false
 ---
