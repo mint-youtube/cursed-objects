@@ -5,7 +5,7 @@ pubDate: 2026-07-01T09:00:00+09:00
 author: ""
 category: ""
 tags: ["마이틀즈 저택", "저주받은 거울", "저주받은 물건", "거울 미신", "도시 전설", "미국 괴담", "초자연 미스터리", "유령 저택", "확증 편향", "오컬트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=NnH5M4DisLM"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-01-myrtles-plantation-mirror-trapped-souls-1980/scene-2_img_2.png"
 draft: false
 ---
