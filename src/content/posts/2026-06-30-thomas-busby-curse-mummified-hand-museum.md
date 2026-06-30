@@ -5,7 +5,7 @@ pubDate: 2026-06-30T22:56:00+09:00
 author: ""
 category: ""
 tags: ["영광의 손", "저주받은 유물", "저주받은 물건", "도시 전설", "영국 괴담", "초자연 미스터리", "박물관 미스터리", "민속 전설", "확증 편향", "오컬트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=qKrS0tQuVt8"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-06-30-thomas-busby-curse-mummified-hand-museum/scene-2_img_2.png"
 draft: false
 ---
