@@ -5,7 +5,7 @@ pubDate: 2026-07-02T21:45:00+09:00
 author: ""
 category: ""
 tags: ["코이누르", "코이누르 다이아몬드", "런던 탑", "영국 왕실", "저주받은 보석", "800년 저주", "무굴 제국", "빅토리아 여왕", "라호르 조약", "저주받은 물건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=pgEBL9FuJOs"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-02-koh-i-noor-diamond-britain-800-year-curse/scene-2_img_2.png"
 draft: false
 ---
