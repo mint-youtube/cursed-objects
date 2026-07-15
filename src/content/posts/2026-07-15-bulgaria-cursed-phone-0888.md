@@ -5,7 +5,7 @@ pubDate: 2026-07-15T11:39:00+09:00
 author: ""
 category: ""
 tags: ["0888 888 888", "저주받은 전화번호", "불가리아 저주", "저주받은 물건", "도시 전설", "미스터리", "괴담", "봉인된 번호", "그라시노프", "디미트로프"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=knCSj_2I5jQ"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-15-bulgaria-cursed-phone-0888/scene-2_img_2.png"
 draft: false
 ---
