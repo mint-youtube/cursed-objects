@@ -5,7 +5,7 @@ pubDate: 2026-07-16T11:11:00+09:00
 author: ""
 category: ""
 tags: ["저주받은 오팔 반지", "알폰소 12세", "메르세데스 왕비", "스페인 왕실 저주", "저주받은 보석", "오팔 저주", "성모상 봉인", "역사 미스터리", "저주받은 물건", "보석 괴담"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=GljbUfNN4VY"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-16-cursed-opal-alfonso-spain-1885/scene-2_img_2.png"
 draft: false
 ---
