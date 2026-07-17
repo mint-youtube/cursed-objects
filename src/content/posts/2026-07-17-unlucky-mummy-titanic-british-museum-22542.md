@@ -5,7 +5,7 @@ pubDate: 2026-07-17T19:52:00+09:00
 author: ""
 category: ""
 tags: ["대영박물관 미라", "불행의 미라", "EA 22542", "아멘라 여사제", "미라 저주", "타이타닉 저주", "저주받은 물건", "박물관 괴담", "이집트 관 뚜껑", "미라 관 저주 실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Z85UjPZhllk"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-17-unlucky-mummy-titanic-british-museum-22542/scene-2_img_2.png"
 draft: false
 ---
