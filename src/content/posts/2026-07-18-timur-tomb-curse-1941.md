@@ -5,7 +5,7 @@ pubDate: 2026-07-18T21:59:00+09:00
 author: ""
 category: ""
 tags: ["티무르 저주", "게라시모프", "구르 아미르", "티무르 무덤", "독소전쟁", "사마르칸트", "역사 미스터리", "저주받은 물건", "바르바로사 작전", "무덤 저주"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=gzkQobHsMus"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-18-timur-tomb-curse-1941/scene-2_img_2.png"
 draft: false
 ---
