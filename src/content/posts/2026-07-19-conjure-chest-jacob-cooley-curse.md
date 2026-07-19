@@ -5,7 +5,7 @@ pubDate: 2026-07-19T18:23:00+09:00
 author: ""
 category: ""
 tags: ["컨저 체스트", "저주받은 물건", "저주의 궤짝", "켄터키 전설", "저주 이야기", "괴담", "미스터리", "박물관 유물", "제이콥 쿨리", "저주받은 상자"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=lNvFHt9VlA0"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-19-conjure-chest-jacob-cooley-curse/scene-2_img_2.png"
 draft: false
 ---
