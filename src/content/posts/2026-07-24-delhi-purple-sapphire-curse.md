@@ -5,7 +5,7 @@ pubDate: 2026-07-24T09:00:00+09:00
 author: ""
 category: ""
 tags: ["델리 퍼플 사파이어", "저주받은 보석", "인도 약탈 문화재", "영국 박물관 저주", "세포이 항쟁", "힌두교 저주", "저주 실화", "노시보 효과"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=gdxn2PurObU"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-24-delhi-purple-sapphire-curse/scene-2_img_2.png"
 draft: false
 ---
