@@ -5,7 +5,7 @@ pubDate: 2026-07-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["무라마사", "무라마사 요도", "저주받은 검", "도쿠가와 이에야스", "일본 도검", "마사무네", "일본 전설", "저주받은 물건", "사무라이 검", "일본 역사 미스터리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=SfECClIoum8"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-25-muramasa-cursed-swords-tokugawa/scene-2_img_2.png"
 draft: false
 ---
