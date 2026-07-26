@@ -5,7 +5,7 @@ pubDate: 2026-07-26T21:30:00+09:00
 author: ""
 category: ""
 tags: ["루돌프 발렌티노", "저주받은 반지", "저주받은 물건", "사파이어 저주", "할리우드 미스터리", "발렌티노 죽음", "저주 보석", "초자연 현상"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=PoBMXmAYnC4"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-26-valentino-cursed-ring-31/scene-2_img_2.png"
 draft: false
 ---
