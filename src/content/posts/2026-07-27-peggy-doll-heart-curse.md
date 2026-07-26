@@ -5,7 +5,7 @@ pubDate: 2026-07-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["페기 인형", "저주받은 인형", "저주받은 물건", "haunted doll", "페기", "심령 현상", "초자연 미스터리", "무서운 이야기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=kzowWijzuH8"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-27-peggy-doll-heart-curse/scene-2_img_2.png"
 draft: false
 ---
