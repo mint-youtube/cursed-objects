@@ -5,7 +5,7 @@ pubDate: 2026-07-29T22:04:00+09:00
 author: ""
 category: ""
 tags: ["펠레의 저주", "하와이 저주", "용암석 저주", "저주받은 물건", "확증 편향", "하와이 화산 국립공원", "여행 괴담", "미신"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=rp_NuLMSy_Y"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-29-pele-curse-hawaii-lava-rocks/scene-2_img_4.png"
 draft: false
 ---
