@@ -5,7 +5,7 @@ pubDate: 2026-07-30T21:51:00+09:00
 author: ""
 category: ""
 tags: ["실비아누스의 반지", "저주받은 반지", "톨킨", "반지의 제왕", "절대 반지", "로마 유물", "노덴스 신전", "저주받은 물건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=3q-BQNE1910"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-07-30-ring-of-silvianus-roman-curse/scene-2_img_2.png"
 draft: false
 ---
