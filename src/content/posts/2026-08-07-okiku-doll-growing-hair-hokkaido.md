@@ -5,7 +5,7 @@ pubDate: 2026-08-07T20:17:00+09:00
 author: ""
 category: ""
 tags: ["오키쿠 인형", "저주받은 인형", "홋카이도 만넨지", "일본 괴담", "머리카락 자라는 인형", "일본 미스터리", "초자연 현상", "저주받은 물건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Z0Rb4DNwvDU"
 heroImage: "https://assets.dailynote.blog/cursed-objects/2026-08-07-okiku-doll-growing-hair-hokkaido/scene-2_img_2.png"
 draft: false
 ---
